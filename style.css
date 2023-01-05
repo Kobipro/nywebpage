@@ -158,7 +158,7 @@ TABLE OF CONTENT
   
   h1,
   h2,
-  h4 { color: var(--ui-color-typography-heading); }
+  h4 { color:  rgb(245, 23, 103); }
   
   h1,
   h2 { margin-bottom: var(--ui-typography-margin-heading); }
@@ -296,16 +296,17 @@ TABLE OF CONTENT
   }
   
   .ui-component-button {
-    border: .0625rem solid var(--ui-color-brand);
+    border: .0625rem solid  rgb(245, 23, 103)
     border-radius: var(--ui-radius-button);
     display: block;
     font-weight: 700;
     line-height: 1;
     text-align: center;
+    
   }
   
   .ui-component-button-primary {
-    background-color: var(--ui-color-brand);
+    background-color:  rgb(245, 23, 103);
     color: var(--ui-color-typography-button);
   }
   
