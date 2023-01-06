@@ -369,12 +369,6 @@ TABLE OF CONTENT
   |
   --------------------------------------------------------------*/
   
-  .ui-section-content {
-    padding-bottom: 1.25rem;
-    padding-top: 1.25rem;
-  }
-  
-  .ui-section-content__layout { row-gap: var(--ui-gap-content); }
   
   /*--------------------------------------------------------------
   |
